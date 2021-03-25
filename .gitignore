@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PyCharm
+.idea/
+
+# Secrets
+secrets.json
+
+# Timelapse Images
+timelapses/
