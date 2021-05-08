@@ -1,2 +1,9 @@
 requests
 pytz
+numpy
+sklearn
+mlrose
+pandas
+altair
+altair_viewer
+moviepy
